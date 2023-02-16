@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kh-chesmod
-- 👀 I’m interested in ocean biogeochemical modeling.
+- 👋 Hi, I’m @kyle-hinson
+- 👀 I’m interested in ocean modeling.
 - 🌱 I’m currently learning how to use PANGEO
 - 💞️ I’m looking to collaborate on anything?
-- 📫 How to reach me: kehinson@vims.edu
+- 📫 How to reach me: kyle.hinson@pnnl.gov
 
 <!---
 kh-chesmod/kh-chesmod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
